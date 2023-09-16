@@ -1,4 +1,4 @@
-### hello world!🦕
+### Hello world!🦕
 
 🏫 I'm a last year informationscience student at [UIB Bergen](https://www.uib.no/)
 
@@ -8,7 +8,7 @@
 
 🔍 Currently looking for exciting opportunities in Bergen
 
-🌍 connect with me:
+🌍 Connect with me:
 
 | [LinkedIn](https://www.linkedin.com/in/therese-haugsbo/) | 📧 therese.haugsbo@gmail.com |
 | -------------------------------------------------------- | ---------------------------- |
